@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Programming/Projekte/typescript/weatherFrontend"
+		},
+		{
+			"name": "ESP32 WeatherClient",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"cmath": "cpp"
+		}
+	}
+}
